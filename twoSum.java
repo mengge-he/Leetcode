@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 public class twoSum {
     public static void main(String[] args) {
-        int[] nums = {2, 7, 11, 15, 5, 8};
+        int[] nums = {2, 7, 11, 15, 5, 1};
         int target = 10;
 
         if (!findTwoSum(nums, target)) {
